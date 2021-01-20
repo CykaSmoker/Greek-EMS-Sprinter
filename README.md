@@ -4,6 +4,6 @@ This is a repository of Greek EMS Sprinter created by me. For more information v
 #Credits:
 
 Model - TubeltGaming
-Reconvert - SykaSmoker
+Reconvert - CykaSmoker
 Skin - CykaSmoker
 Handling - CykaSmoker
